@@ -1,4 +1,4 @@
-### # Assignment **goodnbad**
+### # Assignment- **goodnbad**
   * Describe an instance when you were teaching something computer science related and it went poorly.
 ##### I have recently started teaching Python to my Intro CS class for Freshmen. We are working with the turtle library to draw shapes. My assignment was for the students to draw their flags, --either from their countries or a country that they identify with. The first phase of the project was for the students to plan their code on grid paper, where they would identify each end point in their flag as a cooordinate point. They would also need to list the commands that they would use to draw each section of the flags.
     - Why do you think it didn’t go well?
