@@ -6,3 +6,5 @@
   * Describe an instance when you were teaching something computer science related and it went really well.
     - Why do you think it went so well?
   * These examples could come from normal classes, presentations, tutoring sessions, helping a friend, as long as you were teaching, it can count.
+
+
