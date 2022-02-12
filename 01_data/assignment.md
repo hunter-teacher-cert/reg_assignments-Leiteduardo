@@ -12,14 +12,14 @@
 ### 4- List how many of the top 10 offenses won Super Bowls
 ### 5- List how many of the top 10 defenses won Super Bowls
 ### 6- Summarize your findings- can you say that the data proved the hypothesis or not? Explain your answer. 
+### 7- Notice any factors that in your opinion might have affected the outcomes of championship games: homefield, MVP, Brady, luck(?), Brady, weather, refereeing, etc, Brady(?).
 
 ## Requirements:
 #### 1- Create a list of the 10 best defenses in Football
 #### 2- Create a list of the 10 best offenses in Football
 #### 3- Drawing from the data, which category, best defense or best offense, has led to more Super Bowl winners?
-#### 4- Notice any factors that in your opinion might have affected the outcomes of championship games: homefield, MVP, Brady, luck(?), Brady, weather, refereeing, etc, Brady(?).
 #### 5- Name your source- the dataset you chose
-##Note: this is phase one of a larger project that will use this data in a Snap project using lists.
+##### Note: this is phase one of a larger project that will use this data in a Snap project using lists.
 
 
 
