@@ -7,6 +7,12 @@
 #### ESPN- acceptable
 #### Search engine
 #### https://www.pro-football-reference.com/- recommended
+### 2- Search for the top 10 teams with the best offenses in NFL History
+### 3- Search for the top 10 teams with the best defenses in NFL History
+### 4- List how many of the top 10 offenses won Super Bowls
+### 5- List how many of the top 10 defenses won Super Bowls
+### 6- Summarize your findings- can you say that the data proved the hypothesis or not? Explain your answer. 
+
 ## Requirements:
 #### 1- Create a list of the 10 best defenses in Football
 #### 2- Create a list of the 10 best offenses in Football
