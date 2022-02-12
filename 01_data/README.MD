@@ -1,5 +1,4 @@
 ## Intro CS- 9th Grade
---
 
 ## Contents
 - Assignment
