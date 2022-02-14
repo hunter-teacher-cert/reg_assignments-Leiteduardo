@@ -8,8 +8,8 @@
 ### Procedure- 
 #### 1 Find a data source:
 - NFL.com- acceptable
-- ESPN- acceptable
-- https://www.pro-football-reference.com/- recommended
+- ESPN- recommended
+- http://www.espn.com/page2/s/list/bestNFLdefense.html
 ### Requirements:
 #### 1- Create a list of the 10 best defenses in Football
 #### 2- Create a list of the 10 best offenses in Football
