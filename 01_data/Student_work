@@ -23,7 +23,29 @@
 10- 1962 Packers
 
 Hypothesis- Offenses win games; defenses win Championships
-Who won the Superbowl in each of the years above
+Who won the Superbowl in each of the years above based on data for the best
+offenses/defenses fof all time.
+The assumption that guides this statistical analysis is that the year in 
+which a team had the best offense/defense should lead to their winning 
+the Super Bowl.
 http://www.espn.com/nfl/superbowl/history/winners 
+
+Year      Winner         Hyphothesis t/f
+1950      Browns             Neither
+1962      Green Bay          Offense- F
+1963      Bears              Defense- T
+1971      Baltimore          Neither
+1972      Dallas             Neither
+1973      Miami              Defense- T
+1976      Steelerrs          Defense- T
+1981      Oakland            Neither
+1983      Washington         Defense- T
+1984      Raiders            Neither
+1985      49ers              Neither
+2000      Rams               Offense- F
+
+The data above proves the hypothesis that great deffenses win Championships within 
+the narrow band of the analysis of the data. (All other factors excluded)
+
 
 
