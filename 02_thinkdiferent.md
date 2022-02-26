@@ -8,4 +8,6 @@
     - Anything else you deem important
 
 ### 3 Different Strategies
-##### Kinetic
+  * kinetic
+  * grouping 
+  * extended time
