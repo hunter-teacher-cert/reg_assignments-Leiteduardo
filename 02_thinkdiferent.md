@@ -7,4 +7,4 @@
     - What is the goal of differentiation for this specific strategy?
     - Anything else you deem important
 
-* 3 Different Strategies
+### 3 Different Strategies
