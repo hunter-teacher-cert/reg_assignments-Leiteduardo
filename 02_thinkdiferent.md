@@ -8,3 +8,4 @@
     - Anything else you deem important
 
 ### 3 Different Strategies
+##### Kinetic
