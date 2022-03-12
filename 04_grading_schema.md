@@ -9,4 +9,4 @@
 ##### Fully commenting the code = 10 pts
 ##### Changing the sizes of each shape = 10 pts
 ##### Filling the shapes with colors = 10 pts
-##### Code works without any bugs and performs as expected
+##### Code works without any bugs and performs as expected = 5 pts
