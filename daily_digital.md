@@ -20,10 +20,11 @@ ComputerScience.org Staff
 
 #### Why I chose this article
 * because it speakes to the unpeakable lack of female participation in CS
-* it calls for serious debate on why there are so many Gilrs Who (don't) Code
+* it calls for serious debate on why there are so many Gilrs Who (**don't**) Code
 * it also calls for real action to bring girls into CS
 * my best coders in the 9th grade are females(one non-binary), but only two of them have identified CS as a career
 * I think that too much money is been spent by men in positions of power only to make themselves look good- they are drinking too much of their own Cool-Aid
+* I have so much respect for my female classmates at Hunter and think that they are great role models wherever they teach
 #### Furthere resources
 * towardsdatascience.com
 * https://momentum.gseis.ucla.edu/press/- New initiative aims to accelerate equity in computing and technology fields
