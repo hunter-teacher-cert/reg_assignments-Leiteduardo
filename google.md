@@ -22,12 +22,12 @@ more details below)
 • ask for player1 and player2’s names.
 • have a function player_turn, with the contract shown below:
 * Name: player_turn
- # Purpose: takes in a player name,
- # draws/removes a card from the deck,
- # prints "user drew card x",
- # and returns the value
- # Arguments: player_name as string, deck as list
- # Returns: integer
+ ##### Purpose: takes in a player name,
+ ##### draws/removes a card from the deck,
+ ##### prints "user drew card x",
+ ##### and returns the value
+ ##### Arguments: player_name as string, deck as list
+ ##### Returns: integer
 * Jacks will be represented as 11, Queens will be represented as 12, Kings will be represented as 13,
 and Aces will be represented as 14. The suit does not matter.
 • Create a function card_name to be used by player_turn(), that takes in an integer
