@@ -12,3 +12,4 @@
       - Was it unecessarily compicated?
       - Did it include copypastable code?
       - Did you learn from it/could a student learn from it?
+ 
