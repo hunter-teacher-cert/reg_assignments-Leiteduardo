@@ -16,7 +16,7 @@
 Create a program that lets a user play a simplified version of the card game ‘War’. In this version, the
 users will share a single deck of cards and cards will not be added back to the deck after they have been
 played.
-##### Your game should
+Your game should
 • start with a given shuffled deck variable (shuffle function comes from python’s random library,
 more details below)
 • ask for player1 and player2’s names.
