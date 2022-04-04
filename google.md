@@ -12,4 +12,9 @@
       - Was it unecessarily compicated?
       - Did it include copypastable code?
       - Did you learn from it/could a student learn from it?
+### Lab 3.03 - War (Card Game)
+Create a program that lets a user play a simplified version of the card game ‘War’. In this version, the
+users will share a single deck of cards and cards will not be added back to the deck after they have been
+played.
+
  
