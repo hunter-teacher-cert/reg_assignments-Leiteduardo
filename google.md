@@ -17,11 +17,11 @@ Create a program that lets a user play a simplified version of the card game ‘
 users will share a single deck of cards and cards will not be added back to the deck after they have been
 played.
 Your game should
-• start with a given shuffled deck variable (shuffle function comes from python’s random library,
+  - start with a given shuffled deck variable (shuffle function comes from python’s random library,
 more details below)
-• ask for player1 and player2’s names.
-• have a function player_turn, with the contract shown below:
-* Name: player_turn
+  - ask for player1 and player2’s names.
+  - have a function player_turn, with the contract shown below:
+ ##### Name: player_turn
  ##### Purpose: takes in a player name,
  ##### draws/removes a card from the deck,
  ##### prints "user drew card x",
