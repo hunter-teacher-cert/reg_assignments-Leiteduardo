@@ -27,7 +27,7 @@ more details below)
        - prints "user drew card x",
        - and returns the value
  ##### Arguments: player_name as string, deck as list
- ##### Returns: integer
+ ##### Returns: integer 
 * Jacks will be represented as 11, Queens will be represented as 12, Kings will be represented as 13,
 and Aces will be represented as 14. The suit does not matter.
 * Create a function card_name to be used by player_turn(), that takes in an integer
