@@ -49,5 +49,7 @@ cards (including the previous tied cards).
   - I was able to learn something from it, but it would be too difficult for the students
 - https://stackoverflow.com/questions/67219009/creating-the-warcard-game-using-oop-in-python
   - this site does a great job at walking the students through all aspects of the code; however, the final product, i.e. the code itself is probably meant for college students
+- https://pythonalgos.com/level-1-python-war-card-game/
+  - this site would be my favorite to suggest for the students. It walks the students throuhg each step of the coding process and provides the with code that can be copied onto their own Repl
 
  
