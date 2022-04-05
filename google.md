@@ -1,17 +1,7 @@
 ### Assignment
 * title **google**
 * Create or use an existing programming task in a programming language of a class you are teaching (or would like to teach).
-  - The task should involve multiple steps, ~5.
-* Run a few internet searches that a student might run when presented with your task.
-* In a markdown file:
-  - Describe the task
-  - For each search you ran provide three links from the results
-    - Provide a critique on the result. Things to consider:
-      - Was it useful?
-      - Was it too simple/complex?
-      - Was it unecessarily compicated?
-      - Did it include copypastable code?
-      - Did you learn from it/could a student learn from it?
+  
 ### Lab 3.03 - War (Card Game)
 Create a program that lets a user play a simplified version of the card game ‘War’. In this version, the
 users will share a single deck of cards and cards will not be added back to the deck after they have been
@@ -45,11 +35,13 @@ cards (including the previous tied cards).
 
 #### First search that I ran "war card game python" led me to the following sites:
 - https://gist.github.com/damianesteban/689612
-  - this site was not very usefull because the code that is shown is object-oriented and a too complex for my students
+  - this site was not very usefull because the code that is shown is object-oriented and too complex for my students
   - I was able to learn something from it, but it would be too difficult for the students
 - https://stackoverflow.com/questions/67219009/creating-the-warcard-game-using-oop-in-python
   - this site does a great job at walking the students through all aspects of the code; however, the final product, i.e. the code itself is probably meant for college students
+  - I would not call it over-complicated, but it can't be used by my 9th graders in our Intro CS class.
 - https://pythonalgos.com/level-1-python-war-card-game/
-  - this site would be my favorite to suggest for the students. It walks the students throuhg each step of the coding process and provides the with code that can be copied onto their own Repl
+  - this site would be my favorite to suggest for the students. It walks the students throug each step of the coding process and provides the with code that can be copied onto their own Repl
+  - not only could the students learn fro it as I did, but also they could expand their coding skills
 
  
