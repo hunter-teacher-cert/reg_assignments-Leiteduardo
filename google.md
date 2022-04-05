@@ -43,4 +43,7 @@ cards (including the previous tied cards).
 * The player who takes the greatest number of cards wins.
 * Declare the name of the winner and final score at the end of the game.
 
+#### First search that I ran "war card game python" led me to the following sites:
+- https://gist.github.com/damianesteban/6896120
+
  
