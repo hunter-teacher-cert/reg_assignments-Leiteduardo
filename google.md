@@ -44,6 +44,7 @@ cards (including the previous tied cards).
 * Declare the name of the winner and final score at the end of the game.
 
 #### First search that I ran "war card game python" led me to the following sites:
-- https://gist.github.com/damianesteban/6896120
+- https://gist.github.com/damianesteban/689612
+- this site was not very usefull because the code that is shown is object-oriented and a too complex for my students
 
  
