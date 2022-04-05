@@ -45,6 +45,7 @@ cards (including the previous tied cards).
 
 #### First search that I ran "war card game python" led me to the following sites:
 - https://gist.github.com/damianesteban/689612
-- this site was not very usefull because the code that is shown is object-oriented and a too complex for my students
+  - this site was not very usefull because the code that is shown is object-oriented and a too complex for my students
+  - I was able to learn something from it, but it would be too difficult for the students
 
  
