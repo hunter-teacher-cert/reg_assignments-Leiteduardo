@@ -47,5 +47,7 @@ cards (including the previous tied cards).
 - https://gist.github.com/damianesteban/689612
   - this site was not very usefull because the code that is shown is object-oriented and a too complex for my students
   - I was able to learn something from it, but it would be too difficult for the students
+- https://stackoverflow.com/questions/67219009/creating-the-warcard-game-using-oop-in-python
+  - this site does a great job at walking the students through all aspects of the code; however, the final product, i.e. the code itself is probably meant for college students
 
  
