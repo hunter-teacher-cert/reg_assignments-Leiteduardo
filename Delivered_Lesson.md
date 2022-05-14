@@ -1,5 +1,5 @@
 ### Group Feedback
-##### From the start, our group decided that the focus for our classes would be functions.We debated about how to deliver content about the topic to our 
+- From the start, our group decided that the focus for our classes would be functions.We debated about how to deliver content about the topic to our 
 ##### different classes comprised of students at different grades.BEnson teaches MIddle School, I teach Intro CS to 9th graders, and Daina, Eric, and Mamudu 
 ##### teach AP SC Principles. So it took a little effort for us to align our thinking.I started with the idea to do a class that I had already taught, 
 ##### but Benson clarified that the class to be taught should be a new class. So I looked at how I would teach a lesson on functions to draw shapes. 
